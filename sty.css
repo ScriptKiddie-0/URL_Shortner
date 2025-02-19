@@ -1,0 +1,14 @@
+.modify {
+    background-color: #7fe8e7;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: dotted;
+    display: inline-flex;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: italic;
+    border-radius: 20px;
+  }
